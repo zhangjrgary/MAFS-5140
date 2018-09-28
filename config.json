@@ -1,0 +1,12 @@
+{
+    "stock1": {
+            "tickerPair": "BTC-ETH",
+            "tickerA": "BTC",
+            "tickerB": "ETH"        
+        },
+        "exchangeB": {
+            "tickerPair": "BCH-LTC",
+            "tickerA": "BCH",
+            "tickerB": "LTC"         
+    }
+}
