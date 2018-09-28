@@ -1,4 +1,4 @@
-# MAFS-5140 Project: Trading Strategies Implement in R
+# MAFS-5140 Project: Crypto Arbitrage in R
 
 The purpose of this project is to cmparative market prices analysis in R, backtest strategies and place trades.
 
