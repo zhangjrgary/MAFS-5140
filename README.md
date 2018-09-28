@@ -28,3 +28,7 @@ This script is scheduled to run every 5-10 minutes using a tool such as Windows 
 * *Load* datas and check data is sorted and unique
 
 * 
+
+## Contribution
+https://numex-blog.com/crypto-portfolio-optimization-part-i-correlation-matrix/
+https://www.analyticsvidhya.com/blog/2017/09/comparative-stock-analysis/
