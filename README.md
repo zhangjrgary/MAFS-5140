@@ -2,6 +2,8 @@
 
 The purpose of this project is to cmparative market prices analysis in R, backtest strategies and place trades.
 
+Predicts next-day closing price and executes trade at next-day price.
+
 This repo is to be used only for learning purposes of how to handle data and trading strategies, not suitable for trading.
 
 ## Inspiration
