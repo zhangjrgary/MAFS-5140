@@ -31,7 +31,7 @@ The sell signal is the opposite with overbought being the prime mover.
 ### On Going
 * *Load* datas and check data is sorted and unique
 
-* 
+* http://blog.fens.me/finance-chase-sell/
 
 ## Contribution
 https://numex-blog.com/crypto-portfolio-optimization-part-i-correlation-matrix/
